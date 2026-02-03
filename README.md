@@ -2,6 +2,7 @@ Utilização de Sinais Eletroencefalográficos (EEG) para Controle Robótico
 
 ---
 Este projeto investiga o uso de métricas de conectividade cerebral funcional (PDC e DTF) para superar o desafio de distinguir movimentos realizados com o mesmo segmento corporal (ex: flexão e extensão do cotovelo) através de sinais de EEG.
+
 O arquivo "Brain-Computer Interfaces and Artificial Intelligence A Comprehensive Stufy Guide" Consiste de um questionário com respostas sobre a apresentação, gerada pela próprio NotebookML.
 O arquivo "Controlar Computadores através de sinais cerebrais.rar" consiste de um podcast que o Notebook fez sobre o assunto, com base nas referências.
 "Neurotecnologia e dignidade humana" consiste em uma apresentação powerpoint sobre o tema, para ser utilizada em uma palestra, por exemplo. Contém cerca de 15 slides.
@@ -80,6 +81,7 @@ O sistema será validado através do controle de um manipulador robótico, que e
 
 
 **https://notebooklm.google.com/notebook/653951be-e7c7-4167-ac8c-58573e16e242
+
 
 
 
