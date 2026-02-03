@@ -1,4 +1,4 @@
-Utilização de Sinais Eletroencefalográficos (EEG) para Controle Robótico
+## Utilização de Sinais Eletroencefalográficos (EEG) para Controle Robótico
 
 ---
 Este projeto investiga o uso de métricas de conectividade cerebral funcional (PDC e DTF) para superar o desafio de distinguir movimentos realizados com o mesmo segmento corporal (ex: flexão e extensão do cotovelo) através de sinais de EEG.
@@ -84,6 +84,7 @@ O sistema será validado através do controle de um manipulador robótico, que e
 
 
 **https://notebooklm.google.com/notebook/653951be-e7c7-4167-ac8c-58573e16e242
+
 
 
 
