@@ -10,9 +10,9 @@ A classificação de atividades motoras no mesmo membro é um desafio complexo p
 
 ---
 # Principais Características
-##### • Métricas de Conectividade: Implementação de Coerência Direcionada Parcial (PDC) e Função de Transferência Direcionada (DTF) baseadas em modelos multivariados autorregressivos (MVAR).
-##### • Causalidade de Granger: Avaliação de relações causais no domínio da frequência para identificar influências diretas entre canais de EEG.
-##### • Classificadores de Alta Performance: Uso de Redes Neurais Artificiais (MLP) e Análise de Discriminante Linear (LDA) para categorizar 7 classes de tarefas (movimento, imaginação, observação e repouso).
+#### • Métricas de Conectividade: Implementação de Coerência Direcionada Parcial (PDC) e Função de Transferência Direcionada (DTF) baseadas em modelos multivariados autorregressivos (MVAR).
+#### • Causalidade de Granger: Avaliação de relações causais no domínio da frequência para identificar influências diretas entre canais de EEG.
+#### • Classificadores de Alta Performance: Uso de Redes Neurais Artificiais (MLP) e Análise de Discriminante Linear (LDA) para categorizar 7 classes de tarefas (movimento, imaginação, observação e repouso).
 ---
 
 # Metodologia
@@ -76,4 +76,5 @@ O sistema será validado através do controle de um manipulador robótico, que e
 
 
 **https://notebooklm.google.com/notebook/653951be-e7c7-4167-ac8c-58573e16e242
+
 
