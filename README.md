@@ -27,7 +27,7 @@ O pipeline de processamento segue estas etapas fundamentais:
 
 A tarefa de classificação, neste caso, significa aplicar um algoritmo de aprendizado de máquina que consiga determinar se um determinado sinal de EEG veio de um movimento de extensão ou de flexão do mesmo braço, que é uma tarefa tradicionalmente mais difícil do que classificar entre movimento e imaginação.
 
-| **Critério | **Offline | **Online |
+| Critério | Offline | Online |
 |-------------|-----------|----------|
 | **Acurácia** |  80-90% |  39-40% |
 | **Melhor** |  90% |   58% |
@@ -76,6 +76,7 @@ O sistema será validado através do controle de um manipulador robótico, que e
 
 
 **https://notebooklm.google.com/notebook/653951be-e7c7-4167-ac8c-58573e16e242
+
 
 
 
