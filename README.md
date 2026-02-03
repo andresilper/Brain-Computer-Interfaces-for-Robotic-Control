@@ -17,10 +17,10 @@ A classificação de atividades motoras no mesmo membro é um desafio complexo p
 
 # Metodologia
 O pipeline de processamento segue estas etapas fundamentais:
-1. Aquisição de Sinais: Registro via sistema de 17 ou 19 eletrodos (Sistema 10/20) focado nas áreas frontais, centrais e parietais,.
-2. Pré-processamento: Filtragem passa-faixa (ex: 0,5 a 40 Hz) e remoção seletiva de artefatos biológicos,.
-3. Estimação de Conectividade: Cálculo da gPDC (PDC Generalizada) ou DTF para extrair características compactas (média, desvio padrão e centroide espectral),.
-4. Treinamento e Validação: Classificação síncrona (online e offline) com foco nos ritmos Beta e Gama, que apresentam maior separabilidade para estas tarefas,.
+1. Aquisição de Sinais: Registro via sistema de 19 ou 32 eletrodos (Sistema 10/20) focado nas áreas frontais, centrais e parietais.
+2. Pré-processamento: Filtragem passa-faixa (ex: 0,5 a 40 Hz) e remoção seletiva de artefatos biológicos.
+3. Estimação de Conectividade: Cálculo da gPDC (PDC Generalizada) ou DTF para extrair características compactas (média, desvio padrão e centroide espectral).
+4. Treinamento e Validação: Classificação síncrona (online e offline) com foco nos ritmos Beta e Gama, que apresentam maior separabilidade para estas tarefas.
 ---
 
 # Resultados de Classificação
@@ -76,5 +76,6 @@ O sistema será validado através do controle de um manipulador robótico, que e
 
 
 **https://notebooklm.google.com/notebook/653951be-e7c7-4167-ac8c-58573e16e242
+
 
 
