@@ -1,16 +1,18 @@
 Utilização de Sinais Eletroencefalográficos (EEG) para Controle Robótico
 
 ---
-Este projeto investiga o uso de métricas de conectividade cerebral funcional (PDC e DTF) para superar o desafio de distinguir movimentos realizados com o mesmo segmento corporal (ex: flexão e extensão do cotovelo) através de sinais de EEG,.
+Este projeto investiga o uso de métricas de conectividade cerebral funcional (PDC e DTF) para superar o desafio de distinguir movimentos realizados com o mesmo segmento corporal (ex: flexão e extensão do cotovelo) através de sinais de EEG.
+
+---
 # Visão Geral
 
 A classificação de atividades motoras no mesmo membro é um desafio complexo porque essas tarefas ativam regiões com representações espaciais muito próximas no córtex motor. Enquanto métodos tradicionais baseados em energia (ERD/ERS) permitem detectar a realização de alguma tarefa cognitiva sendo realizada, a análise de conectividade permite mapear a direção e intensidade do fluxo de informação entre áreas corticais, proporcionando maior precisão na distinção dos comandos motores.
 
 ---
 # Principais Características
-• Métricas de Conectividade: Implementação de Coerência Direcionada Parcial (PDC) e Função de Transferência Direcionada (DTF) baseadas em modelos multivariados autorregressivos (MVAR).
-• Causalidade de Granger: Avaliação de relações causais no domínio da frequência para identificar influências diretas entre canais de EEG.
-• Classificadores de Alta Performance: Uso de Redes Neurais Artificiais (MLP) e Análise de Discriminante Linear (LDA) para categorizar 7 classes de tarefas (movimento, imaginação, observação e repouso).
+### • Métricas de Conectividade: Implementação de Coerência Direcionada Parcial (PDC) e Função de Transferência Direcionada (DTF) baseadas em modelos multivariados autorregressivos (MVAR).
+### • Causalidade de Granger: Avaliação de relações causais no domínio da frequência para identificar influências diretas entre canais de EEG.
+### • Classificadores de Alta Performance: Uso de Redes Neurais Artificiais (MLP) e Análise de Discriminante Linear (LDA) para categorizar 7 classes de tarefas (movimento, imaginação, observação e repouso).
 ---
 
 # Metodologia
@@ -71,5 +73,6 @@ O sistema será validado através do controle de um manipulador robótico, que e
 
 ---
 ## Link para o notebook
+
 
 **https://notebooklm.google.com/notebook/653951be-e7c7-4167-ac8c-58573e16e242
